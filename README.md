@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+Hi. My name is Victor Santos. 
+
+<p>
+<a href="https://github.com/dossantosvictor/github-readme-stats">
+  
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dossantosvictor&layout=compact&theme=radical" />
+</a>
+</p>
+
+
+
+
+
+
+
+
 <!--
 **dossantosvictor/dossantosvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-<a href="https://github.com/dossantosvictor/github-readme-stats">
-  
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dossantosvictor&layout=compact&theme=radical" />
-</a>
-</p>
