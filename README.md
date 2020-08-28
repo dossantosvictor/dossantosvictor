@@ -5,7 +5,7 @@ Hi. My name is Victor Santos.
 <p>
 <a href="https://github.com/dossantosvictor/github-readme-stats">
   
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dossantosvictor&layout=compact&theme=radical" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dossantosvictor&layout=compact" />
 </a>
 </p>
 
